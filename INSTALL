@@ -1,0 +1,9 @@
+Building InternetMarketingCoins
+
+See doc/readme-qt.rst for instructions on building InternetMarketingCoins QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of InternetMarketingCoins.
+
+See doc/build-*.txt for instructions on building internetmarketingcoinsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of InternetMarketingCoins.
